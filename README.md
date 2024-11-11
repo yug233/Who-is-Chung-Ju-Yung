@@ -4,9 +4,10 @@
 
 
 <h3 align="center">Our Hyundai's Motor company founding chairmain</h1>
-
+<h5>**RIP**</h5>
+<img src="history1.jpg" width="140" height="130">
 <h4 align="left">Our founding chairmain
-<h5 align="left">Chung Ju Yung: 1915-2001(**RIP**) </h5>
+<h5 align="left">Chung Ju Yung: 1915-2001 </h5>
 
 
 
