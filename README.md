@@ -18,3 +18,9 @@
 
 <h5> Death</h5>
 <h6> Sadly on the 21st of March, 2001, Chung-ju Yung died at ASAN medical center, Seoul. Though this had been tragic day worldwide, may his legacy continue.</h6>
+
+<h5>Books</h5>
+ <h6>-Trials may not fail</h6>
+ <h6>-Born in this Land</h6>
+ <h6>-Your lips Need to Burn</h6>
+ 
