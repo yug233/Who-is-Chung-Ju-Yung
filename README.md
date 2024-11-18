@@ -17,7 +17,7 @@
 <h6>He has done many great things for his beloved country. He has build many roads and dam's after the korean war with Hyundai Civil Works Company. He helped South Korea host the Summer Olympics. He founded Asan foundation which built 9 hospitals, Ulsan medical college, and funded Asan insititue for life sciences. Because of this he has left a big footprint in South Korea. </h6>
 
 <h5> Death</h5>
-<h6> Sadly on the 21st of March, 2001, Chung-ju Yung died at ASAN medical center, Seoul. Though this had been tragic day worldwide, may his legacy continue.</h6>
+<h6> Sadly on the 21st of March, 2001, Chung-ju Yung died at ASAN Medical Center, Seoul, which was the very same hospital he built. Though this had been tragic day worldwide, may his legacy continue.</h6>
 
 <h5>Books</h5>
  <h6>-Trials may not fail</h6>
